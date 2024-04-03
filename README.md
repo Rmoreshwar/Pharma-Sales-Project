@@ -1,9 +1,9 @@
-# Pharma-Sales-Project
+## Pharma-Sales-Project
 
 ## Overview
 The Pharma Sales Dashboard is a comprehensive tool designed to analyze and monitor pharmaceutical sales performance across various regions, countries, and product categories. It provides insights into market share, sales trends, and prescription acquisition metrics. With features such as trend charts, KPIs, and interactive visualizations, stakeholders can make data-driven decisions to optimize sales strategies and maximize revenue.
 
-#Steps Include
+## Steps Include
 
 Understanding the Requirenment for Projects
 Data Gathering
@@ -14,7 +14,7 @@ Writing Dax and Creating Column Calculation is Power bi
 ![Pharma Modeling](https://github.com/Rmoreshwar/Pharma-Sales-Project/assets/77679935/9222b6e0-b036-44b9-aad3-49eac2994c3c)
 
 
-##Homepage:
+## Homepage:
 
 Trend chart: Displays sales trends over time to identify patterns and anomalies.
 KPIs: Provides key sales metrics (YTD, MTD, QTD) with month-over-month (MOM), quarter-over-quarter (QOQ), and year-over-year (YOY) growth rates.
@@ -25,7 +25,7 @@ Sales by RX_type: Breakdown of sales by prescription type (TRx, NRx, NBRx) for e
 Year/Month/Quarter filter: Allows users to filter data across all pages.
 ![Homepage](https://github.com/Rmoreshwar/Pharma-Sales-Project/assets/77679935/3bb190d0-3ab0-4a3c-a8d2-541f3a1d5096)
 
-##Region Overview:
+## Region Overview:
 
 Sales by Region: Column chart depicting sales performance across various regions.
 Product Contribution by Region: Matrix table showing product contribution as a percentage for each region.
@@ -33,7 +33,7 @@ Country and Product Distribution: Stacked column chart illustrating the distribu
 Sales by RX_type: Stacked column chart showing sales breakdown by prescription type for regions and countries.
 ![Region](https://github.com/Rmoreshwar/Pharma-Sales-Project/assets/77679935/b712ec66-c377-4f7e-b6c3-2c821dfd0cf1)
 
-##Product Performance:
+## Product Performance:
 
 Top Selling Product: Donut chart highlighting the top-selling product.
 Sales by Product: Column chart for easy comparison of product growth.
@@ -42,7 +42,7 @@ Sales by RX_type for Product: Stacked column chart showing total and new prescri
 Product Sold in Region: Stacked column chart illustrating product distribution across regions.
 ![product](https://github.com/Rmoreshwar/Pharma-Sales-Project/assets/77679935/0ee107a9-b00e-4398-9399-9f51c8d35320)
 
-##Market Overview:
+## Market Overview:
 
 Sales by Market: Treemap visualization representing sales distribution across markets with percentage breakdowns.
 Top 5 Markets: Donut chart displaying the top five markets based on sales volume.
