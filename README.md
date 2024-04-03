@@ -3,6 +3,17 @@
 ## Overview
 The Pharma Sales Dashboard is a comprehensive tool designed to analyze and monitor pharmaceutical sales performance across various regions, countries, and product categories. It provides insights into market share, sales trends, and prescription acquisition metrics. With features such as trend charts, KPIs, and interactive visualizations, stakeholders can make data-driven decisions to optimize sales strategies and maximize revenue.
 
+#Steps Include
+
+Understanding the Requirenment for Projects
+Data Gathering
+Data Cleaning
+Data Modeling
+Writing Dax and Creating Column Calculation is Power bi
+
+![Pharma Modeling](https://github.com/Rmoreshwar/Pharma-Sales-Project/assets/77679935/9222b6e0-b036-44b9-aad3-49eac2994c3c)
+
+
 ##Homepage:
 
 Trend chart: Displays sales trends over time to identify patterns and anomalies.
